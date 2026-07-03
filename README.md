@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Roberto 👋
 
-<!--
-**marturano/marturano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Smart Home Builder | Home Assistant Enthusiast | IT Professional**
 
-Here are some ideas to get you started:
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build intelligent home automation systems, with a focus on integrating AI, computer vision, and enterprise-grade networking into Home Assistant. Based in Italy 🇮🇹, working in the IT & technology distribution industry.
+
+---
+
+## 🚀 Featured Project
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [`elica`](https://github.com/YOUR_USERNAME/elica) | Home Assistant custom integration for Elica connected kitchen hoods — control fan speed, lighting and monitor status directly from Home Assistant | Home Assistant · Python · HACS |
+
+## 🛠️ Skills & Technologies
+
+**Home Assistant Ecosystem**
+- Advanced YAML automations, scripts, blueprints & Jinja2 templating
+- HACS & custom integrations (LLM Vision, Amazon Devices, and more)
+- Home Assistant OS administration, debugging & log analysis
+
+**AI & Computer Vision**
+- LLM integration (Anthropic Claude) for vision-based automations
+- Prompt engineering for smart home use cases
+- Cost-optimized cloud AI architectures (local trigger → cloud inference)
+
+**Protocols & Connectivity**
+- MQTT, REST APIs, webhooks
+- IP cameras (ONVIF, RTSP), Reolink ecosystem
+- Voice assistants & announcement pipelines (Alexa)
+
+**Infrastructure & Networking**
+- Enterprise networking (Cisco Catalyst, wireless LAN controllers)
+- AWS (IAM, CloudFormation, Rekognition)
+- Docker & containerized services
+
+## 📫 Get in touch
+
+- 💬 Open to collaborating on Home Assistant integrations and AI-powered smart home projects
+- 🌍 I speak Italian and English
+
+---
+
+⭐ *"Automate everything worth automating — locally first, cloud when it's smart."*
