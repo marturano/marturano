@@ -20,7 +20,7 @@ I design and build intelligent home automation systems, with a focus on integrat
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [`elica`](https://github.com/marturano/elica_connect_plus) | Home Assistant custom integration for Elica connected kitchen hoods — control fan speed, lighting and monitor status directly from Home Assistant | Home Assistant · Python · HACS |
+| [`Elica Connect Plus`](https://github.com/marturano/elica_connect_plus) | Home Assistant custom integration for Elica connected kitchen hoods — control fan speed, lighting and monitor status directly from Home Assistant | Home Assistant · Python · HACS |
 
 ## 🛠️ Skills & Technologies
 
