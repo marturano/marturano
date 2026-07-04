@@ -16,7 +16,7 @@ I design and build intelligent home automation systems, with a focus on integrat
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Latest Project
 
 | Project | Description | Tech |
 |---------|-------------|------|
