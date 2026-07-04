@@ -9,8 +9,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white)
+<!--![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white)-->
 
 I design and build intelligent home automation systems, with a focus on integrating AI, computer vision, and enterprise-grade networking into Home Assistant. Based in Italy 🇮🇹, working in the IT & technology distribution industry.
 
