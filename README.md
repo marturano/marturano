@@ -31,6 +31,7 @@ I design and build intelligent home automation systems, with a focus on integrat
 
 **AI & Computer Vision**
 - LLM integration (Anthropic Claude) for vision-based automations
+- Amazon AWS Rekognition image and video automation integration 
 - Prompt engineering for smart home use cases
 - Cost-optimized cloud AI architectures (local trigger → cloud inference)
 
