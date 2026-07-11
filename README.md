@@ -20,8 +20,8 @@ I design and build intelligent home automation systems, with a focus on integrat
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [`Elica Connect Plus`](https://github.com/marturano/elica_connect_plus) | Home Assistant custom integration for Elica connected kitchen hoods — control fan speed, lighting and monitor status directly from Home Assistant | Home Assistant · Python · HACS |
-| [`Setecna Reg Plus`](https://github.com/marturano/setecna_reg_plus) | Home Assistant custom application for Setecna Reg System — control climate, ACS and thermostat directly from Home Assistant | Home Assistant · Python · Go |
+| [`Elica Connect Plus`](https://github.com/marturano/elica_connect_plus) | Home Assistant custom integration for Elica connected kitchen hoods — control fan speed, lighting and monitor status directly from Home Assistant and Alexa devices | Home Assistant · Python · Alexa · HACS |
+| [`Setecna Reg Plus`](https://github.com/marturano/setecna_reg_plus) | Home Assistant custom application for Setecna Reg System — control climate, ACS and thermostat directly from Home Assistant and Alexa devices | Home Assistant · Python · Go · Alexa |
 
 ## 🛠️ Skills & Technologies
 
