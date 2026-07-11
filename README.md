@@ -8,7 +8,7 @@
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=claude&logoColor=white)
+<!--[Anthropic](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=claude&logoColor=white)-->
 <!--![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)-->
 ![Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white)
 
@@ -21,6 +21,7 @@ I design and build intelligent home automation systems, with a focus on integrat
 | Project | Description | Tech |
 |---------|-------------|------|
 | [`Elica Connect Plus`](https://github.com/marturano/elica_connect_plus) | Home Assistant custom integration for Elica connected kitchen hoods — control fan speed, lighting and monitor status directly from Home Assistant | Home Assistant · Python · HACS |
+| [`Setecna Reg Plus`](https://github.com/marturano/setecna_reg_plus) | Home Assistant custom application for Setecna Reg System — control climate, ACS and thermostat directly from Home Assistant | Home Assistant · Python · Go |
 
 ## 🛠️ Skills & Technologies
 
